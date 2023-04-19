@@ -1,0 +1,6 @@
+employee details 
+
+emp name : lexi
+emp no. : 1353
+gender : female 
+department : finance
